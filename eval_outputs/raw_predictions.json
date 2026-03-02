@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 0,
+    "text": "it 's a charming and often affecting journey . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998838901519775,
+    "correct": true
+  },
+  {
+    "id": 1,
+    "text": "unflinchingly bleak and desperate ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.998969554901123,
+    "correct": true
+  },
+  {
+    "id": 2,
+    "text": "allows us to hope that nolan is poised to embark a major career as a commercial yet inventive filmmaker . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9996399879455566,
+    "correct": true
+  },
+  {
+    "id": 3,
+    "text": "the acting , costumes , music , cinematography and sound are all astounding given the production 's austere locales . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9996993541717529,
+    "correct": true
+  },
+  {
+    "id": 4,
+    "text": "it 's slow -- very , very slow . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996892213821411,
+    "correct": true
+  },
+  {
+    "id": 5,
+    "text": "although laced with humor and a few fanciful touches , the film is a refreshingly serious look at young women . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998290538787842,
+    "correct": true
+  },
+  {
+    "id": 6,
+    "text": "a sometimes tedious film . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.999504566192627,
+    "correct": true
+  },
+  {
+    "id": 7,
+    "text": "or doing last year 's taxes with your ex-wife . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9917595982551575,
+    "correct": true
+  },
+  {
+    "id": 8,
+    "text": "you do n't have to know about music to appreciate the film 's easygoing blend of comedy and romance . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.992671012878418,
+    "correct": true
+  },
+  {
+    "id": 9,
+    "text": "in exactly 89 minutes , most of which passed as slowly as if i 'd been sitting naked on an igloo , formula 51 sank from quirky to jerky to utter turkey . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9992507100105286,
+    "correct": true
+  },
+  {
+    "id": 10,
+    "text": "the mesmerizing performances of the leads keep the film grounded and keep the audience riveted . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998838901519775,
+    "correct": true
+  },
+  {
+    "id": 11,
+    "text": "it takes a strange kind of laziness to waste the talents of robert forster , anne meara , eugene levy , and reginald veljohnson all in the same movie . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996739625930786,
+    "correct": true
+  },
+  {
+    "id": 12,
+    "text": "... the film suffers from a lack of humor ( something needed to balance out the violence ) ... ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9998156428337097,
+    "correct": true
+  },
+  {
+    "id": 13,
+    "text": "we root for ( clara and paul ) , even like them , though perhaps it 's an emotion closer to pity . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9570927619934082,
+    "correct": true
+  },
+  {
+    "id": 14,
+    "text": "even horror fans will most likely not find what they 're seeking with trouble every day ; the movie lacks both thrills and humor . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997715353965759,
+    "correct": true
+  },
+  {
+    "id": 15,
+    "text": "a gorgeous , high-spirited musical from india that exquisitely blends music , dance , song , and high drama . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998869895935059,
+    "correct": true
+  },
+  {
+    "id": 16,
+    "text": "the emotions are raw and will strike a nerve with anyone who 's ever had family trauma . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9994854927062988,
+    "correct": true
+  },
+  {
+    "id": 17,
+    "text": "audrey tatou has a knack for picking roles that magnify her outrageous charm , and in this literate french comedy , she 's as morning-glory exuberant as she was in am\u00e9lie . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.999798595905304,
+    "correct": true
+  },
+  {
+    "id": 18,
+    "text": "... the movie is just a plain old monster . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9992817044258118,
+    "correct": true
+  },
+  {
+    "id": 19,
+    "text": "in its best moments , resembles a bad high school production of grease , without benefit of song . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9995865225791931,
+    "correct": true
+  },
+  {
+    "id": 20,
+    "text": "pumpkin takes an admirable look at the hypocrisy of political correctness , but it does so with such an uneven tone that you never know when humor ends and tragedy begins . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9773435592651367,
+    "correct": true
+  },
+  {
+    "id": 21,
+    "text": "the iditarod lasts for days - this just felt like it did . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.955186665058136,
+    "correct": true
+  },
+  {
+    "id": 22,
+    "text": "holden caulfield did it better . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9907523393630981,
+    "correct": false
+  },
+  {
+    "id": 23,
+    "text": "a delectable and intriguing thriller filled with surprises , read my lips is an original . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998834133148193,
+    "correct": true
+  },
+  {
+    "id": 24,
+    "text": "seldom has a movie so closely matched the spirit of a man and his work . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9965078234672546,
+    "correct": true
+  },
+  {
+    "id": 25,
+    "text": "nicks , seemingly uncertain what 's going to make people laugh , runs the gamut from stale parody to raunchy sex gags to formula romantic comedy . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996476173400879,
+    "correct": true
+  },
+  {
+    "id": 26,
+    "text": "the action switches between past and present , but the material link is too tenuous to anchor the emotional connections that purport to span a 125-year divide . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9980615973472595,
+    "correct": true
+  },
+  {
+    "id": 27,
+    "text": "it 's an offbeat treat that pokes fun at the democratic exercise while also examining its significance for those who take part . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9996742010116577,
+    "correct": true
+  },
+  {
+    "id": 28,
+    "text": "it 's a cookie-cutter movie , a cut-and-paste job . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9915094375610352,
+    "correct": true
+  },
+  {
+    "id": 29,
+    "text": "i had to look away - this was god awful . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9970059990882874,
+    "correct": true
+  },
+  {
+    "id": 30,
+    "text": "thanks to scott 's charismatic roger and eisenberg 's sweet nephew , roger dodger is one of the most compelling variations on in the company of men . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998767375946045,
+    "correct": true
+  },
+  {
+    "id": 31,
+    "text": "... designed to provide a mix of smiles and tears , `` crossroads '' instead provokes a handful of unintentional howlers and numerous yawns . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9966211318969727,
+    "correct": true
+  },
+  {
+    "id": 32,
+    "text": "a gorgeous , witty , seductive movie . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998878240585327,
+    "correct": true
+  },
+  {
+    "id": 33,
+    "text": "if the movie succeeds in instilling a wary sense of ` there but for the grace of god , ' it is far too self-conscious to draw you deeply into its world . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9486181735992432,
+    "correct": true
+  },
+  {
+    "id": 34,
+    "text": "it does n't believe in itself , it has no sense of humor ... it 's just plain bored . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9998156428337097,
+    "correct": true
+  },
+  {
+    "id": 35,
+    "text": "a sequence of ridiculous shoot - 'em - up scenes . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997166991233826,
+    "correct": true
+  },
+  {
+    "id": 36,
+    "text": "the weight of the piece , the unerring professionalism of the chilly production , and the fascination embedded in the lurid topic prove recommendation enough . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9991298317909241,
+    "correct": true
+  },
+  {
+    "id": 37,
+    "text": "( w ) hile long on amiable monkeys and worthy environmentalism , jane goodall 's wild chimpanzees is short on the thrills the oversize medium demands . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9870452284812927,
+    "correct": true
+  },
+  {
+    "id": 38,
+    "text": "as surreal as a dream and as detailed as a photograph , as visually dexterous as it is at times imaginatively overwhelming . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9991269707679749,
+    "correct": true
+  },
+  {
+    "id": 39,
+    "text": "escaping the studio , piccoli is warmly affecting and so is this adroitly minimalist movie . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9997716546058655,
+    "correct": true
+  },
+  {
+    "id": 40,
+    "text": "there 's ... tremendous energy from the cast , a sense of playfulness and excitement that seems appropriate . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998881816864014,
+    "correct": true
+  },
+  {
+    "id": 41,
+    "text": "this illuminating documentary transcends our preconceived vision of the holy land and its inhabitants , revealing the human complexities beneath . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9996800422668457,
+    "correct": true
+  },
+  {
+    "id": 42,
+    "text": "the subtle strength of `` elling '' is that it never loses touch with the reality of the grim situation . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9997768998146057,
+    "correct": true
+  },
+  {
+    "id": 43,
+    "text": "holm ... embodies the character with an effortlessly regal charisma . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998315572738647,
+    "correct": true
+  },
+  {
+    "id": 44,
+    "text": "the title not only describes its main characters , but the lazy people behind the camera as well . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9955686926841736,
+    "correct": true
+  },
+  {
+    "id": 45,
+    "text": "it offers little beyond the momentary joys of pretty and weightless intellectual entertainment . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9972707629203796,
+    "correct": true
+  },
+  {
+    "id": 46,
+    "text": "a synthesis of cliches and absurdities that seems positively decadent in its cinematic flash and emptiness . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9600978493690491,
+    "correct": true
+  },
+  {
+    "id": 47,
+    "text": "a subtle and well-crafted ( for the most part ) chiller . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998636245727539,
+    "correct": true
+  },
+  {
+    "id": 48,
+    "text": "has a lot of the virtues of eastwood at his best . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998326301574707,
+    "correct": true
+  },
+  {
+    "id": 49,
+    "text": "it 's hampered by a lifetime-channel kind of plot and a lead actress who is out of her depth . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997772574424744,
+    "correct": true
+  },
+  {
+    "id": 50,
+    "text": "it feels like an after-school special gussied up with some fancy special effects , and watching its rote plot points connect is about as exciting as gazing at an egg timer for 93 minutes . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9992080330848694,
+    "correct": true
+  },
+  {
+    "id": 51,
+    "text": "for the most part , director anne-sophie birot 's first feature is a sensitive , extraordinarily well-acted drama . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998251795768738,
+    "correct": true
+  },
+  {
+    "id": 52,
+    "text": "mr. tsai is a very original artist in his medium , and what time is it there ? ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9986221790313721,
+    "correct": true
+  },
+  {
+    "id": 53,
+    "text": "sade is an engaging look at the controversial eponymous and fiercely atheistic hero . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9997410178184509,
+    "correct": true
+  },
+  {
+    "id": 54,
+    "text": "so devoid of any kind of intelligible story that it makes films like xxx and collateral damage seem like thoughtful treatises ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9991016387939453,
+    "correct": true
+  },
+  {
+    "id": 55,
+    "text": "a tender , heartfelt family drama . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998681545257568,
+    "correct": true
+  },
+  {
+    "id": 56,
+    "text": "... a hollow joke told by a cinematic gymnast having too much fun embellishing the misanthropic tale to actually engage it . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996685981750488,
+    "correct": true
+  },
+  {
+    "id": 57,
+    "text": "the cold turkey would 've been a far better title . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9973347783088684,
+    "correct": true
+  },
+  {
+    "id": 58,
+    "text": "manages to be both repulsively sadistic and mundane . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9981203675270081,
+    "correct": true
+  },
+  {
+    "id": 59,
+    "text": "it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.8743247985839844,
+    "correct": true
+  },
+  {
+    "id": 60,
+    "text": "this is a story of two misfits who do n't stand a chance alone , but together they are magnificent . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998378753662109,
+    "correct": true
+  },
+  {
+    "id": 61,
+    "text": "schaeffer has to find some hook on which to hang his persistently useless movies , and it might as well be the resuscitation of the middle-aged character . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996771812438965,
+    "correct": true
+  },
+  {
+    "id": 62,
+    "text": "the primitive force of this film seems to bubble up from the vast collective memory of the combatants . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9894514679908752,
+    "correct": true
+  },
+  {
+    "id": 63,
+    "text": "on this tricky topic , tadpole is very much a step in the right direction , with its blend of frankness , civility and compassion . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9997650980949402,
+    "correct": true
+  },
+  {
+    "id": 64,
+    "text": "the script kicks in , and mr. hartley 's distended pace and foot-dragging rhythms follow . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.8576425909996033,
+    "correct": false
+  },
+  {
+    "id": 65,
+    "text": "you wonder why enough was n't just a music video rather than a full-length movie . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9982241988182068,
+    "correct": true
+  },
+  {
+    "id": 66,
+    "text": "if you 're hard up for raunchy college humor , this is your ticket right here . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.8316613435745239,
+    "correct": true
+  },
+  {
+    "id": 67,
+    "text": "a fast , funny , highly enjoyable movie . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998911619186401,
+    "correct": true
+  },
+  {
+    "id": 68,
+    "text": "good old-fashioned slash-and-hack is back ! ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9981695413589478,
+    "correct": true
+  },
+  {
+    "id": 69,
+    "text": "this one is definitely one to skip , even for horror movie fanatics . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.8616231679916382,
+    "correct": true
+  },
+  {
+    "id": 70,
+    "text": "for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9958400726318359,
+    "correct": true
+  },
+  {
+    "id": 71,
+    "text": "exquisitely nuanced in mood tics and dialogue , this chamber drama is superbly acted by the deeply appealing veteran bouquet and the chilling but quite human berling . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998536109924316,
+    "correct": true
+  },
+  {
+    "id": 72,
+    "text": "uses high comedy to evoke surprising poignance . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9996333122253418,
+    "correct": true
+  },
+  {
+    "id": 73,
+    "text": "one of creepiest , scariest movies to come along in a long , long time , easily rivaling blair witch or the others . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9746877551078796,
+    "correct": true
+  },
+  {
+    "id": 74,
+    "text": "a string of rehashed sight gags based in insipid vulgarity . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9995115995407104,
+    "correct": true
+  },
+  {
+    "id": 75,
+    "text": "among the year 's most intriguing explorations of alientation . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998138546943665,
+    "correct": true
+  },
+  {
+    "id": 76,
+    "text": "the movie fails to live up to the sum of its parts . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997559189796448,
+    "correct": true
+  },
+  {
+    "id": 77,
+    "text": "the son 's room is a triumph of gentility that earns its moments of pathos . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998049139976501,
+    "correct": true
+  },
+  {
+    "id": 78,
+    "text": "there is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998239874839783,
+    "correct": true
+  },
+  {
+    "id": 79,
+    "text": "this is a train wreck of an action film -- a stupefying attempt by the filmmakers to force-feed james bond into the mindless xxx mold and throw 40 years of cinematic history down the toilet in favor of bright flashes and loud bangs . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996278285980225,
+    "correct": true
+  },
+  {
+    "id": 80,
+    "text": "the draw ( for `` big bad love '' ) is a solid performance by arliss howard . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998527765274048,
+    "correct": true
+  },
+  {
+    "id": 81,
+    "text": "green might want to hang onto that ski mask , as robbery may be the only way to pay for his next project . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996427297592163,
+    "correct": true
+  },
+  {
+    "id": 82,
+    "text": "it 's one pussy-ass world when even killer-thrillers revolve around group therapy sessions . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9215107560157776,
+    "correct": true
+  },
+  {
+    "id": 83,
+    "text": "though it 's become almost redundant to say so , major kudos go to leigh for actually casting people who look working-class . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9030232429504395,
+    "correct": true
+  },
+  {
+    "id": 84,
+    "text": "the band 's courage in the face of official repression is inspiring , especially for aging hippies ( this one included ) . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9997909665107727,
+    "correct": true
+  },
+  {
+    "id": 85,
+    "text": "the movie achieves as great an impact by keeping these thoughts hidden as ... ( quills ) did by showing them . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9995244741439819,
+    "correct": true
+  },
+  {
+    "id": 86,
+    "text": "the film flat lines when it should peak and is more missed opportunity and trifle than dark , decadent truffle . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996635913848877,
+    "correct": true
+  },
+  {
+    "id": 87,
+    "text": "jaglom ... put ( s ) the audience in the privileged position of eavesdropping on his characters ",
+    "true_label": "POSITIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9960917830467224,
+    "correct": false
+  },
+  {
+    "id": 88,
+    "text": "fresnadillo 's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo n't go away . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9980431795120239,
+    "correct": true
+  },
+  {
+    "id": 89,
+    "text": "we know the plot 's a little crazy , but it held my interest from start to finish . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9974119067192078,
+    "correct": true
+  },
+  {
+    "id": 90,
+    "text": "it 's a scattershot affair , but when it hits its mark it 's brilliant . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9997256398200989,
+    "correct": true
+  },
+  {
+    "id": 91,
+    "text": "hardly a masterpiece , but it introduces viewers to a good charitable enterprise and some interesting real people . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998171925544739,
+    "correct": true
+  },
+  {
+    "id": 92,
+    "text": "you wo n't like roger , but you will quickly recognize him . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9985194802284241,
+    "correct": false
+  },
+  {
+    "id": 93,
+    "text": "if steven soderbergh 's ` solaris ' is a failure it is a glorious failure . ",
+    "true_label": "POSITIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9993919134140015,
+    "correct": false
+  },
+  {
+    "id": 94,
+    "text": "byler reveals his characters in a way that intrigues and even fascinates us , and he never reduces the situation to simple melodrama . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9997764229774475,
+    "correct": true
+  },
+  {
+    "id": 95,
+    "text": "this riveting world war ii moral suspense story deals with the shadow side of american culture : racial prejudice in its ugly and diverse forms . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9993116855621338,
+    "correct": false
+  },
+  {
+    "id": 96,
+    "text": "it 's difficult to imagine the process that produced such a script , but here 's guessing that spray cheese and underarm noises played a crucial role . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9975787997245789,
+    "correct": true
+  },
+  {
+    "id": 97,
+    "text": "no sophomore slump for director sam mendes , who segues from oscar winner to oscar-winning potential with a smooth sleight of hand . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9947522878646851,
+    "correct": true
+  },
+  {
+    "id": 98,
+    "text": "on the whole , the movie lacks wit , feeling and believability to compensate for its incessant coarseness and banality . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9998171925544739,
+    "correct": true
+  },
+  {
+    "id": 99,
+    "text": "why make a documentary about these marginal historical figures ? ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9974779486656189,
+    "correct": true
+  },
+  {
+    "id": 100,
+    "text": "neither parker nor donovan is a typical romantic lead , but they bring a fresh , quirky charm to the formula . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998075366020203,
+    "correct": true
+  },
+  {
+    "id": 101,
+    "text": "his last movie was poetically romantic and full of indelible images , but his latest has nothing going for it . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9975209832191467,
+    "correct": true
+  },
+  {
+    "id": 102,
+    "text": "does paint some memorable images ... , but makhmalbaf keeps her distance from the characters ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9876548647880554,
+    "correct": true
+  },
+  {
+    "id": 103,
+    "text": "a gripping movie , played with performances that are all understated and touching . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998694658279419,
+    "correct": true
+  },
+  {
+    "id": 104,
+    "text": "it 's one of those baseball pictures where the hero is stoic , the wife is patient , the kids are as cute as all get-out and the odds against success are long enough to intimidate , but short enough to make a dream seem possible . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9983878135681152,
+    "correct": true
+  },
+  {
+    "id": 105,
+    "text": "combining quick-cut editing and a blaring heavy metal much of the time , beck seems to be under the illusion that he 's shooting the latest system of a down video . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9839488863945007,
+    "correct": true
+  },
+  {
+    "id": 106,
+    "text": "the movie 's relatively simple plot and uncomplicated morality play well with the affable cast . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9995095729827881,
+    "correct": true
+  },
+  {
+    "id": 107,
+    "text": "what the director ca n't do is make either of val kilmer 's two personas interesting or worth caring about . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9410336017608643,
+    "correct": false
+  },
+  {
+    "id": 108,
+    "text": "too often , the viewer is n't reacting to humor so much as they are wincing back in repugnance . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9948334693908691,
+    "correct": true
+  },
+  {
+    "id": 109,
+    "text": "it 's great escapist fun that recreates a place and time that will never happen again . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998679161071777,
+    "correct": true
+  },
+  {
+    "id": 110,
+    "text": "scores no points for originality , wit , or intelligence . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.999683141708374,
+    "correct": true
+  },
+  {
+    "id": 111,
+    "text": "there is n't nearly enough fun here , despite the presence of some appealing ingredients . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9991746544837952,
+    "correct": true
+  },
+  {
+    "id": 112,
+    "text": "hilariously inept and ridiculous . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9824227094650269,
+    "correct": true
+  },
+  {
+    "id": 113,
+    "text": "this movie is maddening . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997883439064026,
+    "correct": true
+  },
+  {
+    "id": 114,
+    "text": "it haunts you , you ca n't forget it , you admire its conception and are able to resolve some of the confusions you had while watching it . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9997478127479553,
+    "correct": true
+  },
+  {
+    "id": 115,
+    "text": "sam mendes has become valedictorian at the school for soft landings and easy ways out . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9968371391296387,
+    "correct": false
+  },
+  {
+    "id": 116,
+    "text": "one of the smartest takes on singles culture i 've seen in a long time . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998302459716797,
+    "correct": true
+  },
+  {
+    "id": 117,
+    "text": "moody , heartbreaking , and filmed in a natural , unforced style that makes its characters seem entirely convincing even when its script is not . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9997507929801941,
+    "correct": true
+  },
+  {
+    "id": 118,
+    "text": "every nanosecond of the the new guy reminds you that you could be doing something else far more pleasurable . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9873794317245483,
+    "correct": false
+  },
+  {
+    "id": 119,
+    "text": "comes ... uncomfortably close to coasting in the treads of the bicycle thief . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9914349913597107,
+    "correct": true
+  },
+  {
+    "id": 120,
+    "text": "warm water under a red bridge is a quirky and poignant japanese film that explores the fascinating connections between women , water , nature , and sexuality . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998489618301392,
+    "correct": true
+  },
+  {
+    "id": 121,
+    "text": "it seems to me the film is about the art of ripping people off without ever letting them consciously know you have done so ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.997744083404541,
+    "correct": false
+  },
+  {
+    "id": 122,
+    "text": "old-form moviemaking at its best . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9857877492904663,
+    "correct": true
+  },
+  {
+    "id": 123,
+    "text": "turns potentially forgettable formula into something strangely diverting . ",
+    "true_label": "POSITIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9925455451011658,
+    "correct": false
+  },
+  {
+    "id": 124,
+    "text": "( lawrence bounces ) all over the stage , dancing , running , sweating , mopping his face and generally displaying the wacky talent that brought him fame in the first place . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9992351531982422,
+    "correct": true
+  },
+  {
+    "id": 125,
+    "text": "a movie that reminds us of just how exciting and satisfying the fantasy cinema can be when it 's approached with imagination and flair . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998750686645508,
+    "correct": true
+  },
+  {
+    "id": 126,
+    "text": "confirms the nagging suspicion that ethan hawke would be even worse behind the camera than he is in front of it . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9823320508003235,
+    "correct": true
+  },
+  {
+    "id": 127,
+    "text": "in the end , we are left with something like two ships passing in the night rather than any insights into gay love , chinese society or the price one pays for being dishonest . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996359348297119,
+    "correct": true
+  },
+  {
+    "id": 128,
+    "text": "montias ... pumps a lot of energy into his nicely nuanced narrative and surrounds himself with a cast of quirky -- but not stereotyped -- street characters . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9997511506080627,
+    "correct": true
+  },
+  {
+    "id": 129,
+    "text": "it provides the grand , intelligent entertainment of a superior cast playing smart people amid a compelling plot . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998844861984253,
+    "correct": true
+  },
+  {
+    "id": 130,
+    "text": "suffers from the lack of a compelling or comprehensible narrative . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997965693473816,
+    "correct": true
+  },
+  {
+    "id": 131,
+    "text": "in execution , this clever idea is far less funny than the original , killers from space . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997319579124451,
+    "correct": true
+  },
+  {
+    "id": 132,
+    "text": "scooby dooby doo / and shaggy too / you both look and sound great . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998564720153809,
+    "correct": true
+  },
+  {
+    "id": 133,
+    "text": "the tale of tok ( andy lau ) , a sleek sociopath on the trail of o ( takashi sorimachi ) , the most legendary of asian hitmen , is too scattershot to take hold . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9995467066764832,
+    "correct": true
+  },
+  {
+    "id": 134,
+    "text": "it all drags on so interminably it 's like watching a miserable relationship unfold in real time . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9992320537567139,
+    "correct": true
+  },
+  {
+    "id": 135,
+    "text": "pumpkin means to be an outrageous dark satire on fraternity life , but its ambitions far exceed the abilities of writer adam larson broder and his co-director , tony r. abrams , in their feature debut . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9202578067779541,
+    "correct": false
+  },
+  {
+    "id": 136,
+    "text": "looks and feels like a project better suited for the small screen . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9987214207649231,
+    "correct": true
+  },
+  {
+    "id": 137,
+    "text": "forced , familiar and thoroughly condescending . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997555613517761,
+    "correct": true
+  },
+  {
+    "id": 138,
+    "text": "that is a compliment to kuras and miller . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998264908790588,
+    "correct": true
+  },
+  {
+    "id": 139,
+    "text": "it 's not the ultimate depression-era gangster movie . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996045231819153,
+    "correct": true
+  },
+  {
+    "id": 140,
+    "text": "sacrifices the value of its wealth of archival foot-age with its less-than-objective stance . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996292591094971,
+    "correct": true
+  },
+  {
+    "id": 141,
+    "text": "the character of zigzag is not sufficiently developed to support a film constructed around him . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997902512550354,
+    "correct": true
+  },
+  {
+    "id": 142,
+    "text": "what better message than ` love thyself ' could young women of any size receive ? ",
+    "true_label": "POSITIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9917102456092834,
+    "correct": false
+  },
+  {
+    "id": 143,
+    "text": "a solid film ... but more conscientious than it is truly stirring . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9995518326759338,
+    "correct": true
+  },
+  {
+    "id": 144,
+    "text": "while ( hill ) has learned new tricks , the tricks alone are not enough to salvage this lifeless boxing film . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997273087501526,
+    "correct": true
+  },
+  {
+    "id": 145,
+    "text": "the best that can be said about the work here of scottish director ritchie ... is that he obviously does n't have his heart in it . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.8561823964118958,
+    "correct": false
+  },
+  {
+    "id": 146,
+    "text": "about a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.999845027923584,
+    "correct": true
+  },
+  {
+    "id": 147,
+    "text": "the talented and clever robert rodriguez perhaps put a little too much heart into his first film and did n't reserve enough for his second . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9742416143417358,
+    "correct": true
+  },
+  {
+    "id": 148,
+    "text": "feels too formulaic and too familiar to produce the transgressive thrills of early underground work . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9998016953468323,
+    "correct": true
+  },
+  {
+    "id": 149,
+    "text": "the volatile dynamics of female friendship is the subject of this unhurried , low-key film that is so off-hollywood that it seems positively french in its rhythms and resonance . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.990090012550354,
+    "correct": true
+  },
+  {
+    "id": 150,
+    "text": "overall very good for what it 's trying to do . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998157620429993,
+    "correct": true
+  },
+  {
+    "id": 151,
+    "text": "a big , gorgeous , sprawling swashbuckler that delivers its diversions in grand , uncomplicated fashion . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998273253440857,
+    "correct": true
+  },
+  {
+    "id": 152,
+    "text": "a difficult , absorbing film that manages to convey more substance despite its repetitions and inconsistencies than do most films than are far more pointed and clear . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.998794436454773,
+    "correct": true
+  },
+  {
+    "id": 153,
+    "text": "the heavy-handed film is almost laughable as a consequence . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9987393021583557,
+    "correct": true
+  },
+  {
+    "id": 154,
+    "text": "a solid examination of the male midlife crisis . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9997395873069763,
+    "correct": true
+  },
+  {
+    "id": 155,
+    "text": "a nightmare date with a half-formed wit done a great disservice by a lack of critical distance and a sad trust in liberal arts college bumper sticker platitudes . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9992893934249878,
+    "correct": true
+  },
+  {
+    "id": 156,
+    "text": "manages to transcend the sex , drugs and show-tunes plot into something far richer . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9997184872627258,
+    "correct": true
+  },
+  {
+    "id": 157,
+    "text": "it takes talent to make a lifeless movie about the most heinous man who ever lived . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997040629386902,
+    "correct": true
+  },
+  {
+    "id": 158,
+    "text": "by getting myself wrapped up in the visuals and eccentricities of many of the characters , i found myself confused when it came time to get to the heart of the movie . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9935868978500366,
+    "correct": false
+  },
+  {
+    "id": 159,
+    "text": "like leon , it 's frustrating and still oddly likable . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.999848484992981,
+    "correct": true
+  },
+  {
+    "id": 160,
+    "text": "uncommonly stylish but equally silly ... the picture fails to generate much suspense , nor does it ask searching enough questions to justify its pretensions . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997588992118835,
+    "correct": true
+  },
+  {
+    "id": 161,
+    "text": "not exactly the bees knees ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9991471767425537,
+    "correct": true
+  },
+  {
+    "id": 162,
+    "text": "there seems to be no clear path as to where the story 's going , or how long it 's going to take to get there . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997187256813049,
+    "correct": true
+  },
+  {
+    "id": 163,
+    "text": "slapstick buffoonery can tickle many a preschooler 's fancy , but when it costs a family of four about $ 40 to see a film in theaters , why spend money on a dog like this when you can rent a pedigree instead ? ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9984234571456909,
+    "correct": true
+  },
+  {
+    "id": 164,
+    "text": "a woman 's pic directed with resonance by ilya chaiken . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9994459748268127,
+    "correct": true
+  },
+  {
+    "id": 165,
+    "text": "may reawaken discussion of the kennedy assassination but this fictional film looks made for cable rather than for the big screen . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9989266991615295,
+    "correct": true
+  },
+  {
+    "id": 166,
+    "text": "characters still need to function according to some set of believable and comprehensible impulses , no matter how many drugs they do or how much artistic license avary employs . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.998778760433197,
+    "correct": true
+  },
+  {
+    "id": 167,
+    "text": "the end result is a film that 's neither . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997267127037048,
+    "correct": true
+  },
+  {
+    "id": 168,
+    "text": "manages to be sweet and wickedly satisfying at the same time . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998869895935059,
+    "correct": true
+  },
+  {
+    "id": 169,
+    "text": "leigh 's film is full of memorable performances from top to bottom . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998409748077393,
+    "correct": true
+  },
+  {
+    "id": 170,
+    "text": "it 's also , clearly , great fun . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998894929885864,
+    "correct": true
+  },
+  {
+    "id": 171,
+    "text": "rarely has leukemia looked so shimmering and benign . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9779418110847473,
+    "correct": false
+  },
+  {
+    "id": 172,
+    "text": "it seems like i have been waiting my whole life for this movie and now i ca n't wait for the sequel . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.7441480755805969,
+    "correct": true
+  },
+  {
+    "id": 173,
+    "text": "determined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996882677078247,
+    "correct": true
+  },
+  {
+    "id": 174,
+    "text": "if you dig on david mamet 's mind tricks ... rent this movie and enjoy ! ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9996410608291626,
+    "correct": true
+  },
+  {
+    "id": 175,
+    "text": "bleakly funny , its characters all the more touching for refusing to pity or memorialize themselves . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9984622001647949,
+    "correct": true
+  },
+  {
+    "id": 176,
+    "text": "delivers the same old same old , tarted up with latin flava and turned out by hollywood playas . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9580540060997009,
+    "correct": true
+  },
+  {
+    "id": 177,
+    "text": "does n't offer much besides glib soullessness , raunchy language and a series of brutal set pieces ... that raise the bar on stylized screen violence . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9995130300521851,
+    "correct": true
+  },
+  {
+    "id": 178,
+    "text": "it made me want to wrench my eyes out of my head and toss them at the screen . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.6659035682678223,
+    "correct": true
+  },
+  {
+    "id": 179,
+    "text": "the film 's performances are thrilling . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998875856399536,
+    "correct": true
+  },
+  {
+    "id": 180,
+    "text": "unfortunately , it 's not silly fun unless you enjoy really bad movies . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9953953623771667,
+    "correct": true
+  },
+  {
+    "id": 181,
+    "text": "it 's a bad thing when a movie has about as much substance as its end credits blooper reel . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997588992118835,
+    "correct": true
+  },
+  {
+    "id": 182,
+    "text": "i sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9995177984237671,
+    "correct": true
+  },
+  {
+    "id": 183,
+    "text": "the lower your expectations , the more you 'll enjoy it . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9996402263641357,
+    "correct": false
+  },
+  {
+    "id": 184,
+    "text": "though perry and hurley make inspiring efforts to breathe life into the disjointed , haphazard script by jay scherick and david ronn , neither the actors nor director reginald hudlin can make it more than fitfully entertaining . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.6638649106025696,
+    "correct": false
+  },
+  {
+    "id": 185,
+    "text": "a must-see for the david mamet enthusiast and for anyone who appreciates intelligent , stylish moviemaking . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998592138290405,
+    "correct": true
+  },
+  {
+    "id": 186,
+    "text": "pacino is brilliant as the sleep-deprived dormer , his increasing weariness as much existential as it is physical . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9934484362602234,
+    "correct": true
+  },
+  {
+    "id": 187,
+    "text": "` de niro ... is a veritable source of sincere passion that this hollywood contrivance orbits around . ' ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9994576573371887,
+    "correct": true
+  },
+  {
+    "id": 188,
+    "text": "a misogynistic piece of filth that attempts to pass itself off as hip , young adult entertainment . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9977509379386902,
+    "correct": true
+  },
+  {
+    "id": 189,
+    "text": "its story may be a thousand years old , but why did it have to seem like it took another thousand to tell it to us ? ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9995365142822266,
+    "correct": true
+  },
+  {
+    "id": 190,
+    "text": "try as i may , i ca n't think of a single good reason to see this movie , even though everyone in my group extemporaneously shouted , ` thank you ! ' ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9954130053520203,
+    "correct": true
+  },
+  {
+    "id": 191,
+    "text": "the movie is beautiful to behold and engages one in a sense of epic struggle -- inner and outer -- that 's all too rare in hollywood 's hastier productions . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9968551397323608,
+    "correct": true
+  },
+  {
+    "id": 192,
+    "text": "a celebration of quirkiness , eccentricity , and certain individuals ' tendency to let it all hang out , and damn the consequences . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9809228777885437,
+    "correct": true
+  },
+  {
+    "id": 193,
+    "text": "morton uses her face and her body language to bring us morvern 's soul , even though the character is almost completely deadpan . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.993157684803009,
+    "correct": true
+  },
+  {
+    "id": 194,
+    "text": "instead of a hyperbolic beat-charged urban western , it 's an unpretentious , sociologically pointed slice of life . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9979851245880127,
+    "correct": true
+  },
+  {
+    "id": 195,
+    "text": "my thoughts were focused on the characters . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9222418665885925,
+    "correct": true
+  },
+  {
+    "id": 196,
+    "text": "so , too , is this comedy about mild culture clashing in today 's new delhi . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9935731291770935,
+    "correct": true
+  },
+  {
+    "id": 197,
+    "text": "for starters , the story is just too slim . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997972846031189,
+    "correct": true
+  },
+  {
+    "id": 198,
+    "text": "this is a winning ensemble comedy that shows canadians can put gentle laughs and equally gentle sentiments on the button , just as easily as their counterparts anywhere else in the world . ",
+    "true_label": "POSITIVE",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9998760223388672,
+    "correct": true
+  },
+  {
+    "id": 199,
+    "text": "at the very least , if you do n't know anything about derrida when you walk into the theater , you wo n't know much more when you leave . ",
+    "true_label": "NEGATIVE",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996379613876343,
+    "correct": true
+  }
+]

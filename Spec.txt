@@ -1,0 +1,73 @@
+Evaluation Documentation
+Sentiment Analysis Model Evaluation
+
+Objective:
+Build an evaluation harness that reads `eval_outputs/raw_predictions.json`
+(produced by `eval_demo_setup.py`) and generates a complete evaluation report.
+
+Inputs:
+- `eval_outputs/raw_predictions.json` - JSON array of objects with fields:
+  `id`, `text`, `true_label`, `pred_label`, `pred_score`, `correct`
+- Labels are `"POSITIVE"` and `"NEGATIVE"` (strings)
+
+Outputs (all saved to `eval_outputs/`):
+
+1. Metrics CSV - `metrics.csv`
+| metric              | value   |
+|---------------------|---------|
+| accuracy            | 0.XX    |
+| macro_precision     | 0.XX    |
+| macro_recall        | 0.XX    |
+| macro_f1            | 0.XX    |
+| positive_precision  | 0.XX    |
+| positive_recall     | 0.XX    |
+| positive_f1         | 0.XX    |
+| negative_precision  | 0.XX    |
+| negative_recall     | 0.XX    |
+| negative_f1         | 0.XX    |
+| total_examples      | N       |
+
+- Use `sklearn.metrics` for all metric computations.
+- Round all floats to 4 decimal places.
+
+2. Confusion Matrix Plot - `confusion_matrix.png`
+- Use `matplotlib` with `sklearn.metrics.ConfusionMatrixDisplay`.
+- Title: "Confusion Matrix - DistilBERT SST-2"
+- Axis labels: "Predicted Label" and "True Label"
+- Color map: `Blues`
+- Figure size: 6x5 inches, 150 DPI
+- Include counts in each cell (not normalized)
+
+3. Confidence Distribution Plot - `confidence_distribution.png`
+- Histogram of `pred_score` values, split by whether the prediction was correct.
+- Two overlapping histograms: correct (green, alpha=0.6) and incorrect (red, alpha=0.6)
+- 20 bins, range [0.5, 1.0]
+- Title: "Prediction Confidence Distribution"
+- X-axis: "Confidence Score", Y-axis: "Count"
+- Legend: "Correct", "Incorrect"
+- Figure size: 8x5 inches, 150 DPI
+
+4. LaTeX Table - `metrics_table.tex`
+- Standalone LaTeX table (just the `\begin{table}...\end{table}` block, not a full document)
+- Booktabs style (`\toprule`, `\midrule`, `\bottomrule`)
+- Caption: "Evaluation Results: DistilBERT on SST-2 Validation Set"
+- Label: `tab:eval-results`
+- Columns: Class | Precision | Recall | F1-Score
+- Rows: Positive, Negative, Macro Avg
+- Include overall accuracy as a note below the table using `\caption*`
+
+---
+
+Technical Constraints
+- Python 3.10+
+- Dependencies: `scikit-learn`, `matplotlib`, `pandas` (no other plotting libs)
+- Single script: `eval_harness.py`
+- No interactive prompts - script runs end-to-end with no user input
+- Print a summary to stdout listing all files created with their paths
+
+What NOT to Do
+- Do not re-run model inference - only read from `raw_predictions.json`
+- Do not use seaborn, plotly, or any plotting library other than matplotlib
+- Do not generate a full LaTeX document - only the table environment
+- Do not normalize the confusion matrix
+- Do not add ROC curves or PR curves - keep it to the two specified plots only

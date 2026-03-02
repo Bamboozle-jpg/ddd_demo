@@ -1,0 +1,12 @@
+metric,value
+accuracy,0.91
+macro_precision,0.9138
+macro_recall,0.9105
+macro_f1,0.9099
+positive_precision,0.8716
+positive_recall,0.9596
+positive_f1,0.9135
+negative_precision,0.956
+negative_recall,0.8614
+negative_f1,0.9062
+total_examples,200.0
